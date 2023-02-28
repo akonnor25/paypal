@@ -6,3 +6,4 @@ Emma
 Isaac
 Patrick
 Theo
+manager
